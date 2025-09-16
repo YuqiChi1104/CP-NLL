@@ -1,0 +1,1 @@
+python ./ELR/generate_result_cifar100lt.py --c ./ELR/script/config_cifar100_0.9_lt50.json --d 0
