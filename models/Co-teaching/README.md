@@ -46,7 +46,7 @@ Here is an example:
 python main.py --dataset cifar10 --noise_type symmetric --noise_rate 0.5 
 ```
 
-<h2>How to Run</h2>
+<h2>How to generate scores</h2>
 
 <h3>Cifar10</h3>
 
