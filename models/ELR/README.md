@@ -111,7 +111,7 @@ class elr_loss(nn.Module):
 - the mislabeled examples are identified as those who has argmax(self.target) != y
 
 
-<h2>How to generate long-tail dataset</h2>
+<h2>How to generate dataset scores</h2>
 
 
 <pre><code>bash ./CP-NLL/models/ELR/gen_dataset.sh
