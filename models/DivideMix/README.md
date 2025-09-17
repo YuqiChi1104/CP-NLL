@@ -18,7 +18,7 @@ First, please create a folder named <i>checkpoint</i> to store the results.\
 Next, run \
 <code>python Train_{dataset_name}.py --data_path <i>path-to-your-data</i></code>
 
-<h2>How to Run</h2>
+<h2>How to generate scores</h2>
 
 <h3>Cifar10</h3>
 
